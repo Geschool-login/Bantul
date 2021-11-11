@@ -115,6 +115,14 @@
         margin-top: 5vh;
         text-align: justify;
     }
+
+    .deskripsi h5 {
+        font-size: 1rem;
+    }
+
+    .title h1 {
+        font-size: calc(1.325rem + .9vw);
+    }
 }
 
 @media (max-width: 767px) {
